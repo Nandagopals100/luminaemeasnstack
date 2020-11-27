@@ -1,0 +1,54 @@
+h1{
+
+    color:brown;
+    text-align:center;
+
+}
+h2{
+    color:blue
+}
+#sanam{
+    color: blueviolet;
+}
+div{
+    text-align: center;
+        border-style: dashed;
+    border-color: chartreuse;
+    border-width:5px;
+    background-color: darkgoldenrod;
+    width:40%;
+    margin: auto;
+}
+h3
+{
+    text-align: center;
+}
+#tem{
+    color:brown;
+    border-style:double;
+    border-color:palevioletred ;
+    border-width:4px;
+    background-color: rgb(0, 255, 34,0.456);
+    width:50%;
+    margin:left 40%;
+}
+li{
+    margin-left:100px ;
+}
+.mi{
+    color:lightgreen;
+    border-style:solid;
+    border-width:7px;
+    background-color:blue;
+    width:50%;
+    margin: auto;
+}
+#color
+{
+    color:green
+}
+body{
+    background-image: url("C:/HHD/Lum/tst/CSSworkshop/IPL-2020-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

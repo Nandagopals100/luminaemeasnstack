@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Goldman', cursive;
+}
+#top{
+    border-style:solid;
+    border-color: greenyellow;
+    border-width: 6px;
+    width:50% ;
+    margin-left: 350px;
+    text-align: center;
+   
+}
+#botom{
+    border-style:solid;
+    border-color: greenyellow;
+    border-width: 6px;
+    width:50% ;
+    margin-top: 400px;
+    margin-left:350px;
+    padding-left:20% ;
+
+
+}
